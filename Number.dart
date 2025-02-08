@@ -33,11 +33,13 @@ void main(){
 
 //   Dart parse() function
 // The parse() function converts the numeric string to the number. Consider the following example -
+// int.parse("35")
+// double.parse("35.5")
 
 String str = "35";
 print('string str is : ${str}');
 print(str is String);
-int strNum = int.parse("35");
+int strNum = int.parse("35"); 
 print(strNum);
 
 }
