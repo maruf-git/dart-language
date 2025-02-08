@@ -6,7 +6,10 @@ void main() {
 // String -> UTF-16
 // List
 // Map
+// Set
 // Runes -> UTF-32
+// Symbol
+// Enumeration
 
   int n = 5; // integer data type
   print(n);

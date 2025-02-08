@@ -45,4 +45,7 @@ void main() {
   print(result2);
   int finalResult = result ?? result2; // if result is null then final result will hold result2 otherwise it will hold result
   print(finalResult);
+
+//   Dart Cascade notation Operators
+// The Cascade notation Operators (..) is used to evaluate a series of operation on the same object
 }
