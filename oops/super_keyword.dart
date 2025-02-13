@@ -2,8 +2,6 @@ void main(){
   Student student1 = new Student("CSE","munna",22);
   student1.display();
 
-
-
 }
 
 class Person{
